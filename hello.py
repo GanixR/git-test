@@ -1,5 +1,5 @@
 print('Hello World!')
 
-print('local branch changes to remote send')
+print('Change no 1 local')
 
-print('second local branch change to remote send')
+print('Change no 2 local')
